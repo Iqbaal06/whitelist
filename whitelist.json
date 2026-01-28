@@ -1,0 +1,21 @@
+{
+  "users": [
+    123456789,
+    987654321,
+    111222333
+  ],
+  "groups": [
+    {
+      "id": 12345678,
+      "name": "My Group Name",
+      "minRank": 0
+    },
+    {
+      "id": 87654321,
+      "name": "VIP Group",
+      "minRank": 10
+    }
+  ],
+  "lastUpdated": "2026-01-29",
+  "notes": "Whitelist untuk Bot System"
+}
